@@ -48,6 +48,7 @@ function waterfall(main,box){
 			boxArr[i].style.left=boxArr[minIndex].offsetLeft+"px";
 		    boxHeightArr[minIndex]+=boxArr[i].offsetHeight;//更新最小高度值
 		}
+		boxArr[i].style.opacity=1;
 	}
 
 
