@@ -8,7 +8,8 @@
 }
 .box{
 	padding:15px 0 0 15px;
-    float:left;
+	opacity:0;
+        float:left;
 }
 .pic{
 	padding:10px;
